@@ -6,6 +6,8 @@ The goal of this project was to write an excel macro that does various calculati
 
 Here are my descriptions of the files provided in this repository to document this project:
 
+Screenshot_2014.jpg, Screenshot_2015.jpg, Screenshot_2016.jpg - These files show screenshots of each year in the Multiple_year_stock_data_Hard_Challenge_full2.xlsm spreadsheet after the macro has been run on them. This is so that you can see the results of the macro without running it. 
+
 Stock_calc_hard.bas  - This is a visual basic file that contains the code of the finished macro plus comments. It can be opened with a text editor to inspect my solution
 
 Multiple_year_stock_data_Hard_Challenge_full2.xlsm - this is a file that contains the stock data, which has been been analyzed using the macro
