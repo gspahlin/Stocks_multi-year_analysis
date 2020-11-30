@@ -1,9 +1,10 @@
 # Stocks_multi-year_analysis
 
 Project Description:
+
 The goal of this project was to write an excel macro that does various calculations on a spreadsheet with daily data on several thousand stocks from several years. Running the macro will calculate the difference in the first (non-zero) opening value and last closing value for each stock, calculate the sum of all the volumes for each stock, and display this number next to the ticker in a new table to the left. The percentages are color coded - red for zero or negative values, and green for positive value. A new table will then be generated to display the maximum and minimum values of volume and percent change for the year. The macro is also designed to analyze all sheets in range, so there is no need to run it more than once. 
 
-Here are my descriptions of the files provided in this repository to document this project
+Here are my descriptions of the files provided in this repository to document this project:
 
 Stock_calc_hard.bas  - This is a visual basic file that contains the code of the finished macro plus comments. It can be opened with a text editor to inspect my solution
 
