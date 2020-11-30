@@ -12,5 +12,5 @@ Multiple_year_stock_data_Hard_Challenge_full2.xlsm - this is a file that contain
 
 Multiple_year_stock_data_macro_ready.xlsm - this is a version of the file above with the macro loaded, but saved prior to running it. This macro can be run to confirm that the changes in the file above came from the macro, and to time it if desired. To run the macro go to "modules" in the developer tab, and look for "Stock_Calc_Hard" this is the name of the macro. 
 
-alphabetical_testing_3 - this is a smaller sheet that contains an unfinished version of the macro. I included it because tab A shows some manual calculations I did to test whether the macro was calculating desired quantities correctly. 
+alphabetical_testing_3.xlsm - this is a smaller sheet that contains an unfinished version of the macro. I included it because tab A shows some manual calculations I did to test whether the macro was calculating desired quantities correctly. 
 
